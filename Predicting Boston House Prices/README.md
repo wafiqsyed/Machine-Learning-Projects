@@ -1,7 +1,5 @@
 # Project: Predicting Boston House Prices with Regression
 
-[Tutorial link](https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d)
-
 ## Objective
 In this project, we will develop an ML model that predicts the monetary value of a house located in Boston. 
 
@@ -256,3 +254,6 @@ Client 2:
 Client 1:
 - features are intermediate between clients 2 and 3, so it's pricing is near the median/mean
 - reasonable
+
+## Credits
+This project was completed using the tutorial found here: [Tutorial link](https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d)
